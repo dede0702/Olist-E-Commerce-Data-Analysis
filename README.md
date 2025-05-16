@@ -15,7 +15,7 @@ A análise busca responder a perguntas de negócios relevantes e fornecer recome
 ## 📁 Estrutura do Repositório
 
 - `Brazilian_E_Commerce_Dataset_Olist.ipynb`: Notebook com a análise exploratória de dados.
-- `Datasets`: Brazilian E-commerce Public Dataset by Olist" disponível no Kaggle. Este dataset contém informações sobre 100.000 pedidos de e-commerce no Brasil realizados entre 2016 e 2018.
+- `Olist Datasets`: Brazilian E-commerce Public Dataset by Olist" disponível no Kaggle. Este dataset contém informações sobre 100.000 pedidos de e-commerce no Brasil realizados entre 2016 e 2018.
 - `README.md`: Este arquivo.
 - `LICENSE`: Licença do projeto (MIT).
 
